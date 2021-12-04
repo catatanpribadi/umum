@@ -1,0 +1,9 @@
+.left-banner-hideshow {
+    display: block;
+}
+
+@media screen and (max-width: 768px) {
+    .left-banner-hideshow {
+      display: none;
+    }
+}
