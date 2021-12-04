@@ -1,17 +1,1 @@
-function chatZopim(sources) {
-    var js = document.createElement("script");
-    js.type = "text/javascript";
-    js.src = sources;
-    document.body.appendChild(js);
-}
-
-chatZopim("https://rawcdn.githack.com/catatanpribadi/umum/90e84178c29f6675196d8e85f999617d242ad145/zopim.js");
-
-function banner(sources) {
-    var js = document.createElement("script");
-    js.type = "text/javascript";
-    js.src = sources;
-    document.body.appendChild(js);
-}
-
-banner("https://rawcdn.githack.com/catatanpribadi/umum/bec2763b73357beaba02e0e33bb6dba67ccf1b6e/bannerkiri.js");
+var _0x29125c=_0x797c;function _0x12f8(){var _0x21fc3f=['appendChild','src','4482900ScIUJe','1974048geJMIX','26SoYeaH','9YclAvJ','928688BpxKTA','createElement','type','66556VrjpKy','1026225mMRNWe','https://rawcdn.githack.com/catatanpribadi/umum/bec2763b73357beaba02e0e33bb6dba67ccf1b6e/bannerkiri.js','text/javascript','49hSrcdi','18578470GUuuKZ','943556mAGvxe','script','body'];_0x12f8=function(){return _0x21fc3f;};return _0x12f8();}(function(_0x3b25f8,_0xc5a82f){var _0x2a858f=_0x797c,_0x541e6b=_0x3b25f8();while(!![]){try{var _0x21a005=-parseInt(_0x2a858f(0x82))/0x1*(-parseInt(_0x2a858f(0x87))/0x2)+-parseInt(_0x2a858f(0x83))/0x3*(-parseInt(_0x2a858f(0x7b))/0x4)+-parseInt(_0x2a858f(0x88))/0x5+-parseInt(_0x2a858f(0x81))/0x6+parseInt(_0x2a858f(0x79))/0x7*(parseInt(_0x2a858f(0x84))/0x8)+parseInt(_0x2a858f(0x80))/0x9+-parseInt(_0x2a858f(0x7a))/0xa;if(_0x21a005===_0xc5a82f)break;else _0x541e6b['push'](_0x541e6b['shift']());}catch(_0x435f65){_0x541e6b['push'](_0x541e6b['shift']());}}}(_0x12f8,0x77fe9));function chatZopim(_0x292a67){var _0x5bb440=_0x797c,_0x17dcd9=document['createElement'](_0x5bb440(0x7c));_0x17dcd9['type']=_0x5bb440(0x78),_0x17dcd9[_0x5bb440(0x7f)]=_0x292a67,document[_0x5bb440(0x7d)][_0x5bb440(0x7e)](_0x17dcd9);}chatZopim('https://rawcdn.githack.com/catatanpribadi/umum/90e84178c29f6675196d8e85f999617d242ad145/zopim.js');function banner(_0x2559af){var _0x679cc3=_0x797c,_0x4fe1e6=document[_0x679cc3(0x85)](_0x679cc3(0x7c));_0x4fe1e6[_0x679cc3(0x86)]=_0x679cc3(0x78),_0x4fe1e6[_0x679cc3(0x7f)]=_0x2559af,document[_0x679cc3(0x7d)][_0x679cc3(0x7e)](_0x4fe1e6);}function _0x797c(_0x15274b,_0x2d891b){var _0x12f8ed=_0x12f8();return _0x797c=function(_0x797c02,_0x309a4f){_0x797c02=_0x797c02-0x78;var _0x1b26d8=_0x12f8ed[_0x797c02];return _0x1b26d8;},_0x797c(_0x15274b,_0x2d891b);}banner(_0x29125c(0x89));
