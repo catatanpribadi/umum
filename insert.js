@@ -1,8 +1,21 @@
-function chatZopim(sources) {
-    var js = document.createElement("script");
-    js.type = "text/javascript";
-    js.src = sources;
-    document.body.appendChild(js);
-}
-
-chatZopim("https://rawcdn.githack.com/catatanpribadi/umum/90e84178c29f6675196d8e85f999617d242ad145/zopim.js");
+window.$zopim || (function(d, s) {
+    var z = $zopim = function(c) {
+            z._.push(c)
+        },
+        $ = z.s =
+        d.createElement(s),
+        e = d.getElementsByTagName(s)[0];
+    z.set = function(o) {
+        z.set.
+        _.push(o)
+    };
+    z._ = [];
+    z.set._ = [];
+    $.async = !0;
+    $.setAttribute("charset", "utf-8");
+    $.src = "https://v2.zopim.com/?47AOyzXcovgt9UAywXLdjAtL43NjisrP";
+    z.t = +new Date;
+    $.
+    type = "text/javascript";
+    e.parentNode.insertBefore($, e)
+})(document, "script");
