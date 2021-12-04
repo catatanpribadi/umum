@@ -30,4 +30,4 @@ function style(href) {
     document.head.appendChild(css);
 }
 
-style("https://rawcdn.githack.com/catatanpribadi/umum/88279b6eb26faa11aabc38020c3528d68b43accc/style.css");
+style("https://github.com/catatanpribadi/umum/blob/main/style.css");
