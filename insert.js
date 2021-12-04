@@ -18,7 +18,7 @@ function banner(sources) {
     document.body.appendChild(js);
 }
 
-banner("https://raw.githubusercontent.com/catatanpribadi/umum/main/bannerkiri.js");
+banner("https://rawcdn.githack.com/catatanpribadi/umum/855597fd01f016dd3c39c5842f76b7dcc6b14b26/bannerkiri.js");
 
 // insert css
 
