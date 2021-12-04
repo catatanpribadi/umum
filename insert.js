@@ -20,7 +20,7 @@ function banner(sources) {
 
 banner("https://rawcdn.githack.com/catatanpribadi/umum/bec2763b73357beaba02e0e33bb6dba67ccf1b6e/bannerkiri.js");
 
-// insert style.css
+// insert css
 
 function style(href) {
     var css = document.createElement("link");
